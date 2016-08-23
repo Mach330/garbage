@@ -1,0 +1,2 @@
+simply type
+bash helloprog
